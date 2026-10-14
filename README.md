@@ -4,11 +4,9 @@ Customer success and revenue operations leader with 9+ years in enterprise B2B S
 
 ## What I'm building
 
-**[Account Intelligence Engine](https://github.com/GlassLightLabs/account-intelligence-engine)**
-Turns monthly operational data into a running account picture and a CSM-ready action list. Python does the math, Claude interprets, and a second, independent engine verifies every number before anything reaches a customer.
+**[Account Intelligence Engine](https://github.com/GlassLightLabs/account-intelligence-engine):** Turns monthly operational data into a running account picture and a CSM-ready action list. Python does the math, Claude interprets, and a second, independent engine verifies every number before anything reaches a customer.
 
-**[CareerCobra](https://careercobra.net)**
-A live AI resume tailoring SaaS built on the Claude API with Lovable and Supabase. I own it end to end: AI quality controls, model upgrades and testing, ATS scoring, funnel analytics, and Stripe billing.
+**[CareerCobra](https://careercobra.net):** A live AI resume tailoring SaaS built on the Claude API with Lovable and Supabase. I own it end to end: AI quality controls, model upgrades and testing, ATS scoring, funnel analytics, and Stripe billing.
 
 ## How I work
 
